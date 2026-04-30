@@ -1,11 +1,17 @@
-# 忽略训练输出、模型权重、视频等大文件
-outputs/
-*.pt
-*.mp4
-*.mov
+# 模型权重（大文件，上传至网盘）
+outputs/**/*.pt
+
+# 推理视频（大文件，上传至网盘）
+outputs/**/*.mp4
+outputs/**/*.mov
+
+# Python 缓存
 __pycache__/
 *.pyc
+
+# 系统文件
 .DS_Store
-runs/
+
+# 下载的预训练权重
 yolov8m.pt
 yolo26n.pt

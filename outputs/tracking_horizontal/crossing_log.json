@@ -1,0 +1,145 @@
+{
+  "crossings": [
+    {
+      "frame": 74,
+      "track_id": 11,
+      "class": "car",
+      "direction": "B\u2192A",
+      "cx": 1112,
+      "cy": 647
+    },
+    {
+      "frame": 116,
+      "track_id": 22,
+      "class": "pickup",
+      "direction": "B\u2192A",
+      "cx": 1056,
+      "cy": 644
+    },
+    {
+      "frame": 143,
+      "track_id": 30,
+      "class": "car",
+      "direction": "B\u2192A",
+      "cx": 1286,
+      "cy": 647
+    },
+    {
+      "frame": 216,
+      "track_id": 38,
+      "class": "car",
+      "direction": "B\u2192A",
+      "cx": 1043,
+      "cy": 643
+    },
+    {
+      "frame": 218,
+      "track_id": 45,
+      "class": "three wheelers -CNG-",
+      "direction": "A\u2192B",
+      "cx": 682,
+      "cy": 649
+    },
+    {
+      "frame": 317,
+      "track_id": 67,
+      "class": "car",
+      "direction": "B\u2192A",
+      "cx": 1123,
+      "cy": 647
+    },
+    {
+      "frame": 320,
+      "track_id": 83,
+      "class": "car",
+      "direction": "B\u2192A",
+      "cx": 1033,
+      "cy": 647
+    },
+    {
+      "frame": 395,
+      "track_id": 103,
+      "class": "car",
+      "direction": "B\u2192A",
+      "cx": 953,
+      "cy": 647
+    },
+    {
+      "frame": 421,
+      "track_id": 125,
+      "class": "car",
+      "direction": "A\u2192B",
+      "cx": 650,
+      "cy": 649
+    },
+    {
+      "frame": 436,
+      "track_id": 123,
+      "class": "car",
+      "direction": "B\u2192A",
+      "cx": 954,
+      "cy": 647
+    },
+    {
+      "frame": 455,
+      "track_id": 132,
+      "class": "car",
+      "direction": "A\u2192B",
+      "cx": 630,
+      "cy": 653
+    },
+    {
+      "frame": 521,
+      "track_id": 140,
+      "class": "car",
+      "direction": "B\u2192A",
+      "cx": 941,
+      "cy": 647
+    },
+    {
+      "frame": 664,
+      "track_id": 179,
+      "class": "car",
+      "direction": "B\u2192A",
+      "cx": 1095,
+      "cy": 647
+    },
+    {
+      "frame": 694,
+      "track_id": 205,
+      "class": "car",
+      "direction": "A\u2192B",
+      "cx": 641,
+      "cy": 653
+    },
+    {
+      "frame": 701,
+      "track_id": 200,
+      "class": "car",
+      "direction": "B\u2192A",
+      "cx": 1195,
+      "cy": 647
+    },
+    {
+      "frame": 866,
+      "track_id": 258,
+      "class": "car",
+      "direction": "B\u2192A",
+      "cx": 1199,
+      "cy": 647
+    },
+    {
+      "frame": 881,
+      "track_id": 241,
+      "class": "motorbike",
+      "direction": "B\u2192A",
+      "cx": 1107,
+      "cy": 637
+    }
+  ],
+  "summary": {
+    "total": 17,
+    "A_to_B": 4,
+    "B_to_A": 13
+  }
+}

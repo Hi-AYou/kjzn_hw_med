@@ -1,0 +1,89 @@
+{
+  "crossings": [
+    {
+      "frame": 40,
+      "track_id": 3,
+      "class": "minivan",
+      "direction": "B\u2192A",
+      "cx": 961,
+      "cy": 643
+    },
+    {
+      "frame": 217,
+      "track_id": 36,
+      "class": "car",
+      "direction": "B\u2192A",
+      "cx": 961,
+      "cy": 638
+    },
+    {
+      "frame": 258,
+      "track_id": 83,
+      "class": "car",
+      "direction": "B\u2192A",
+      "cx": 964,
+      "cy": 835
+    },
+    {
+      "frame": 386,
+      "track_id": 112,
+      "class": "car",
+      "direction": "B\u2192A",
+      "cx": 961,
+      "cy": 806
+    },
+    {
+      "frame": 444,
+      "track_id": 137,
+      "class": "suv",
+      "direction": "B\u2192A",
+      "cx": 961,
+      "cy": 793
+    },
+    {
+      "frame": 550,
+      "track_id": 140,
+      "class": "car",
+      "direction": "B\u2192A",
+      "cx": 961,
+      "cy": 614
+    },
+    {
+      "frame": 551,
+      "track_id": 175,
+      "class": "car",
+      "direction": "B\u2192A",
+      "cx": 962,
+      "cy": 841
+    },
+    {
+      "frame": 638,
+      "track_id": 198,
+      "class": "car",
+      "direction": "B\u2192A",
+      "cx": 961,
+      "cy": 828
+    },
+    {
+      "frame": 676,
+      "track_id": 220,
+      "class": "car",
+      "direction": "B\u2192A",
+      "cx": 962,
+      "cy": 832
+    },
+    {
+      "frame": 774,
+      "track_id": 244,
+      "class": "car",
+      "direction": "B\u2192A",
+      "cx": 962,
+      "cy": 814
+    }
+  ],
+  "summary": {
+    "total": 10,
+    "A_to_B": 0,
+    "B_to_A": 10
+  }
+}
