@@ -1,0 +1,11 @@
+# 忽略训练输出、模型权重、视频等大文件
+outputs/
+*.pt
+*.mp4
+*.mov
+__pycache__/
+*.pyc
+.DS_Store
+runs/
+yolov8m.pt
+yolo26n.pt
